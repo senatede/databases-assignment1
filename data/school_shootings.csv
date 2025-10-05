@@ -1,0 +1,918 @@
+Date,City,State,School,Fatalities,Wounded
+3/27/1990,Brooklyn,New York,C,0,1
+5/20/1990,Centerville,Tennessee,HS,1,
+8/26/1990,Las Vegas,Nevada,HS,1,
+9/11/1990,San Antonio,Texas,HS,0,3
+1/8/1991,Richardson,Texas,HS,0,
+2/6/1991,Donna,Texas,HS,1,0
+4/23/1991,Compton,California,MS,1,
+4/23/1991,Compton,California,MS,1,0
+9/18/1991,Crosby,Texas,HS,1,
+9/18/1991,Crosby,Texas,HS,1,0
+10/8/1991,Bronx,New York,HS,1,
+11/1/1991,Iowa City,Iowa,C,5,
+11/1/1991,Iowa City,Iowa,C,6,1
+11/14/1991,Houston,Texas,HS,0,
+11/25/1991,Brooklyn,New York,HS,1,
+11/25/1991,Brooklyn,New York,HS,1,0
+12/12/1991,Kent,Ohio,C,1,0
+1/29/1992,Kent,Ohio,C,0,1
+2/26/1992,Brooklyn,New York,HS,2,
+2/26/1992,Brooklyn,New York,HS,2,0
+5/1/1992,Olivehurst,California,HS,4,
+5/1/1992,Olivehurst,California,HS,3,10
+5/14/1992,Napa,California,MS,0,
+9/11/1992,Lincoln,Texas,HS,0,
+10/12/1992,Lincoln,Nebraska,C,0,
+10/12/1992,Tucson,Arizona,HS,1,
+10/19/1992,The Bronx,New York,HS,0,3
+11/4/1992,Detroit,Michigan,HS,0,11
+11/10/1992,Chicago,Illinois,ES,0,
+11/13/1992,Houston,Texas,HS,1,
+11/16/1992,Birmingham,Alabama,HS,1,
+11/20/1992,Chicago,Illinois,HS,1,
+11/23/1992,Buffalo,New York,HS,0,
+12/3/1992,Chicago,Illinois,ES,1,
+12/14/1992,Great Barrington,Massachusetts,C,2,
+12/14/1992,Great Barrington,Massachusetts,C,2,4
+1/6/1993,Brentwood,New York,HS,0,1
+1/8/1993,Kinzers,Pennsylvania,HS,1,
+1/12/1993,Miami,Florida,HS,1,
+1/18/1993,Grayson,Kentucky,HS,2,
+1/18/1993,Grayson,Kentucky,HS,2,0
+1/21/1993,Los Angeles,California,HS,1,
+2/1/1993,Redmond,Washington,MS,1,
+2/1/1993,Amityville,New York,HS,1,
+2/4/1993,Clayton County,Georgia,HS,1,
+2/8/1993,Middle River,Minnesota,MS,1,
+2/8/1993,Washington DC,District of Columbia,HS,1,
+2/18/1993,Dallas,Texas,HS,1,
+2/22/1993,Los Angeles,California,HS,1,
+2/22/1993,Los Angeles,California,HS,1,0
+2/26/1993,Gloucester,Massachusetts,HS,0,
+3/18/1993,Harlem,Georgia,HS,1,
+3/25/1993,St. Louis,Missouri,HS,1,
+4/3/1993,Sacramento,California,HS,1,
+4/14/1993,Irving,Texas,HS,1,
+4/15/1993,Acushnet,Massachusetts,MS,1,
+4/15/1993,Acushnet,Massachusetts,MS,1,0
+4/16/1993,Sacramento,California,HS,1,
+4/26/1993,Raleigh,North Carolina,HS,1,
+5/14/1993,Irving,Texas,HS,1,0
+5/24/1993,Red Hill,Pennsylvania,HS,1,
+5/24/1993,Pennsburg,Pennsylvania,HS,1,0
+5/27/1993,New Orleans,Louisiana,HS,1,
+7/8/1993,Ogden,Utah,C,1,
+8/31/1993,Atlanta,Georgia,HS,1,
+9/2/1993,Dallas,Texas,HS,1,
+9/17/1993,Sheridan,Wyoming,MS,1,4
+9/18/1993,Sheridan,Wyoming,MS,1,
+10/12/1993,New Castle,Delaware,HS,1,
+10/14/1993,Detroit,Michigan,HS,1,
+11/1/1993,Chicago,Illinois,HS,1,
+11/4/1993,Jacksonville,Florida,HS,1,
+11/4/1993,New Britain,Connecticut,HS,1,
+11/4/1993,New Britain,Connecticut,HS,1,0
+11/5/1993,Bay Springs,Mississippi,HS,1,
+11/29/1993,Kansas City,Missouri,HS,1,
+12/1/1993,Wauwatosa,Wisconsin,HS,1,
+12/1/1993,Wauwatosa,Wisconsin,HS,1,0
+12/8/1993,Savannah,Georgia,HS,1,
+12/17/1993,Chelsea,Michigan,HS,1,
+1/20/1994,Kennard,Texas,HS,0,
+1/20/1994,Hacienda Heights,California,HS,1,
+1/24/1994,Columbia,South Carolina,HS,1,0
+1/26/1994,Columbia,South Carolina,HS,1,
+1/31/1994,Seattle,Washington,MS,1,
+1/31/1994,Seattle,Washington,MS,1,0
+2/8/1994,Detroit,Michigan,HS,1,
+2/14/1994,Belmont,California,HS,1,
+2/18/1994,Spartanburg,South Carolina,HS,0,1
+3/1/1994,Boonville,Missouri,C,2,
+3/1/1994,Boonville,Missouri,HS,2,0
+3/15/1994,Charleston,South Carolina,HS,1,
+3/22/1994,Riveria Beach,Florida,MS,0,
+3/23/1994,Seattle,Washington,HS,1,
+3/25/1994,Woodstock,Georgia,HS,0,
+4/12/1994,Butte,Montana,ES,1,
+4/12/1994,Butte,Montana,ES,1,0
+4/13/1994,Los Angeles,California,ES,0,
+4/21/1994,Nashville,Tennessee,MS,1,
+4/21/1994,Nashville,Tennessee,MS,1,0
+5/2/1994,North Miami,Florida,HS,1,
+5/25/1994,Union,Kentucky,HS,4,
+7/25/1994,Ottumwa,Iowa,HS,1,
+9/7/1994,Hollywood,California,HS,1,
+10/12/1994,Greensboro,North Carolina,HS,1,
+10/12/1994,Greensboro,North Carolina,HS,1,1
+10/17/1994,Chicago,Illinois,HS,0,1
+11/5/1994,San Leandro,California,ES,1,
+11/7/1994,Wickliffe,Ohio,MS,1,
+11/7/1994,Wickliffe,Ohio,MS,1,4
+11/15/1994,Tacoma,Washington,HS,1,
+12/14/1994,Albany,New York,C,0,1
+1/5/1995,Washington DC,District of Columbia,HS,1,
+1/10/1995,Palm Beach Gardens,Florida,HS,0,
+1/12/1995,Seattle,Washington,HS,0,
+1/12/1995,Seattle,Washington,HS,0,2
+1/23/1995,Redlands,California,MS,1,
+1/26/1995,Chapel Hill,North Carolina,C,2,
+2/2/1995,Long Beach,California,HS,1,
+8/29/1995,Laredo,Texas,MS,1,
+9/12/1995,Memphis,Tennessee,HS,1,
+9/14/1995,Olathe,Kansas,HS,2,
+9/29/1995,Tavares,Florida,MS,1,
+9/29/1995,Tavares,Florida,MS,1,0
+10/12/1995,Blackville,South Carolina,HS,1,
+10/12/1995,Blackville,South Carolina,HS,2,1
+11/15/1995,Lynnville,Tennessee,HS,2,
+11/15/1995,Lynnville,Tennessee,HS,2,1
+11/28/1995,queens,New York,HS,1,
+1/19/1996,District of Columbia,District of Columbia,MS,1,
+1/19/1996,Washington,D.C.,HS,1,0
+1/26/1996,memphis,Tennessee,HS,1,
+2/2/1996,Moses Lake,Washington,MS,3,
+2/2/1996,Moses Lake,Washington,MS,3,1
+2/8/1996,Palo Alto,California,HS,1,
+2/29/1996,St. Louis,Missouri,HS,1,1
+3/11/1996,New London,North Carolina,HS,1,
+4/11/1996,Talledega,Alabama,HS,1,
+6/4/1996,Hemet,California,HS,1,
+8/15/1996,San Diego,California,C,3,
+8/15/1996,San Diego,California,C,3,0
+8/26/1996,San Antonio,Texas,C,1,
+9/17/1996,State College,Pennsylvania,C,1,
+9/17/1996,State College,Pennsylvania,C,1,2
+9/25/1996,Scottdale,Georgia,HS,1,
+9/25/1996,Decatur,Georgia,HS,1,2
+10/2/1996,Philadelphia,Pennsylvania,ES,2,
+10/4/1996,Playa del Rey,California,HS,1,
+10/9/1996,Sherwood,Arkansas,-,1,0
+10/13/1996,St. Louis,Missouri,HS,1,
+10/16/1996,West Lafayette,Indiana,C,1,
+11/27/1996,Sacramento,California,HS,1,
+1/11/1997,Brooklyn,New York,HS,1,
+1/27/1997,West Palm Beach,Florida,MS,1,
+1/27/1997,West Palm Beach,Florida,MS,1,0
+1/31/1997,Tulsa,Oklahoma,,1,
+2/19/1997,Bethel,Alaska,HS,2,
+2/19/1997,Bethel,Alaska,HS,2,2
+2/20/1997,Jacksonville,Florida,HS,1,
+3/18/1997,Detroit,Michigan,HS,1,
+10/1/1997,Pearl,Mississippi,HS,3,
+10/1/1997,Pearl,Mississippi,HS,3,7
+10/14/1997,Garland,Texas,HS,1,
+10/15/1997,Palmetto,Florida,MS,0,1
+10/22/1997,Norwalk,California,HS,2,
+11/13/1997,Sacramento,California,ES,1,
+12/1/1997,West Paducah,Kentucky,HS,3,
+12/1/1997,West Paducah,Kentucky,HS,3,5
+12/15/1997,Stamps,Arkansas,HS,2,
+12/15/1997,Stamps,Arkansas,HS,0,2
+2/25/1998,Reed City,Michigan,HS,1,
+3/1/1998,Philadelphia,Pennsylvania,C,1,3
+3/24/1998,Jonesboro,Arkansas,MS,5,
+3/24/1998,Craighead County,Arkansas,MS,5,10
+3/25/1998,Coldwater,Michigan,HS,1,
+3/30/1998,Chapel Hill,North Carolina,MS,0,
+4/24/1998,Edinboro,Pennsylvania,HS,1,
+4/24/1998,Edinboro,Pennsylvania,MS,1,3
+4/28/1998,Pomona,California,ES,2,
+5/1/1998,Buffalo,New York,ES,1,
+5/19/1998,Fayetteville,Tennessee,HS,1,
+5/19/1998,Fayetteville,Tennessee,HS,1,0
+5/21/1998,Springfield,Oregon,HS,4,
+5/21/1998,Rialto,California,HS,1,
+5/21/1998,Springfield,Oregon,HS,4,23
+5/27/1998,Pasadena,California,MS,0,
+5/29/1998,Fort Lauderdale,Florida,HS,2,
+6/15/1998,Richmond,Virginia,HS,0,
+6/15/1998,Richmond,Virginia,HS,0,2
+9/4/1998,San Bernardino,California,C,2,
+9/12/1998,Glendale,California,HS,0,
+12/10/1998,Detroit,Michigan,C,1,
+12/10/1998,Detroit,Michigan,C,1,0
+1/8/1999,Carollton,Georgia,HS,2,
+1/8/1999,Carrollton,Georgia,HS,1,1
+1/21/1999,North Richland Hills,Texas,HS,1,
+2/11/1999,Elgin,Illinois,HS,0,
+4/16/1999,Notus,Idaho,HS,0,
+4/16/1999,Notus,Idaho,HS,0,0
+4/20/1999,Littleton,Colorado,HS,15,
+4/20/1999,Littleton,Colorado,HS,15,21
+4/23/1999,Atlanta,Georgia,MS,1,
+5/20/1999,Conyers,Georgia,HS,0,
+5/20/1999,Conyers,Georgia,HS,0,6
+8/25/1999,Monticello,Georgia,HS,1,
+9/7/1999,Plano,Texas,HS,1,
+9/9/1999,San Jose,California,HS,1,
+11/19/1999,Deming,New Mexico,MS,0,
+11/19/1999,Deming,New Mexico,MS,1,0
+12/6/1999,Fort Gibson,Oklahoma,MS,0,
+12/6/1999,Fort Gibson,Oklahoma,MS,0,6
+1/19/2000,New Port Richey,Florida,HS,0,
+2/29/2000,Flint,Michigan,ES,1,
+2/29/2000,Flint,Michigan,ES,1,0
+5/10/2000,Sierra Vista,Arizona,ES,2,
+5/26/2000,Lake Worth,Florida,MS,1,
+5/26/2000,Lake Worth,Florida,MS,1,0
+6/28/2000,Seattle,Washington,C,2,
+7/26/2000,Canton,Ohio,HS,1,
+8/28/2000,Fayetteville,Arkansas,C,2,
+8/28/2000,Fayetteville,Arkansas,C,2,0
+9/5/2000,Bidwell,Ohio,ES,2,
+9/26/2000,New Orleans,Louisiana,MS,0,
+9/26/2000,New Orleans,Louisiana,-,0,2
+10/23/2000,Los Angeles,California,C,1,
+10/26/2000,Brooklyn,New York,HS,1,
+10/27/2000,Memphis,Tennessee,HS,1,
+12/1/2000,Granada Hills,California,HS,0,
+12/1/2000,San Diego,California,HS,0,1
+1/10/2001,Oxnard,California,HS,1,
+1/17/2001,Baltimore,Maryland,HS,1,
+1/29/2001,Arlington,Texas,MS,1,
+3/2/2001,San Diego,California,HS,0,
+3/5/2001,Santee,California,HS,2,
+3/5/2001,Santee,California,HS,2,13
+3/7/2001,Williamsport,Pennsylvania,HS,0,
+3/7/2001,Williamsport,Pennsylvania,HS,0,1
+3/22/2001,El Cajon,California,HS,0,
+3/22/2001,El Cajon,California,HS,0,5
+3/30/2001,Gary,Indiana,HS,1,
+3/30/2001,Gary,Indiana,HS,1,0
+4/3/2001,Klein,Texas,MS,0,
+4/25/2001,Cleveland,Ohio,HS,1,
+5/15/2001,Ennis,Texas,HS,0,
+5/16/2001,Parkland,Washington,C,2,0
+5/17/2001,Pierce County,Washington,C,1,
+10/12/2001,Taylorsville,Utah,HS,0,
+11/12/2001,Caro,Michigan,HS,0,
+1/15/2002,New York City,New York,HS,0,
+1/15/2002,New York City,New York,HS,0,2
+1/16/2002,Gundy,Virginia,C,3,
+1/16/2002,Grundy,Virginia,C,3,3
+2/20/2002,Milwaukee,Wisconsin,HS,1,0
+6/11/2002,Conception,Missouri,-,3,2
+7/26/2002,Charlotte,North Carolina,MS,1,
+10/4/2002,San Antonio,Texas,MS,1,
+10/7/2002,Bowie,Maryland,MS,0,
+10/7/2002,Bowie,Maryland,MS,0,1
+10/28/2002,Tucson,Arizona,C,4,
+10/28/2002,Tucson,Arizona,C,4,0
+10/29/2002,Jersey City,New Jersey,HS,0,1
+11/7/2002,Liberty,Missouri,ES,1,
+12/16/2002,Chicago,Illinois,HS,1,
+3/23/2003,Meridian,Mississippi,HS,0,
+4/10/2003,Walnut,California,HS,0,
+4/14/2003,New Orleans,Louisiana,HS,1,
+4/14/2003,New Orleans,Louisiana,HS,1,3
+4/17/2003,Addison,Texas,ES,1,
+4/24/2003,Red Lion,Pennsylvania,MS,1,
+4/24/2003,Red Lion,Pennsylvania,HS,2,0
+5/9/2003,Cleveland,Ohio,C,1,
+5/9/2003,Cleveland,Ohio,C,1,2
+5/13/2003,Johnstown,Pennsylvania,HS,1,
+6/4/2003,Wellsboro,Pennsylvania,MS,0,
+7/15/2003,Dallas,Texas,HS,0,
+9/24/2003,Cold Spring,Minnesota,HS,2,
+9/24/2003,Cold Spring,Minnesota,HS,2,0
+10/30/2003,Washington,District Of Columbia,HS,1,
+11/7/2003,Sugar Land,Texas,HS,1,
+1/21/2004,Henderson,Nevada,ES,1,
+2/2/2004,District of Columbia,District Of Columbia,HS,1,
+2/2/2004,Washington,D.C.,HS,1,0
+2/9/2004,East Greenbush,New York,HS,0,
+2/9/2004,East Greenbush,New York,-,0,1
+2/11/2004,Philadelphia,Pennsylvania,ES,1,
+3/17/2004,Joyce,Washington,MS,0,
+5/7/2004,Randallstown,Maryland,HS,0,
+5/7/2004,Randallstown,Maryland,HS,0,4
+5/24/2004,Salt Lake City,Utah,HS,1,
+6/1/2004,St Croix,Virgin Islands,HS,1,
+8/30/2004,Maywood,Illinois,HS,1,
+10/4/2004,Memphis,Tennessee,HS,0,
+11/22/2004,Philadelphia,Pennsylvania,HS,1,
+12/10/2004,Nine Mile Falls,Washington,HS,1,
+1/6/2005,Philadelphia,Pennsylvania,HS,1,
+2/8/2005,Chicago,Illinois,HS,0,1
+3/2/2005,Dover,Tennessee,HS,1,0
+3/21/2005,Red Lake,Minnesota,HS,10,
+3/21/2005,Red Lake,Minnesota,HS,10,7
+5/17/2005,Lower Allen Township,Pennsylvania,ES,1,
+9/13/2005,Chicago,Illinois,HS,0,
+9/13/2005,Chicago,Illinois,HS,0,1
+11/8/2005,Jacksboro,Tennessee,HS,1,
+11/8/2005,Jacksboro,Tennessee,HS,1,2
+1/13/2006,Birmingham,Alabama,HS,1,
+1/13/2006,Longwood,Florida,MS,0,1
+1/15/2006,Longwood,Florida,MS,1,
+2/23/2006,Roseburg,Oregon,HS,1,
+2/23/2006,Roseburg,Oregon,HS,0,1
+3/14/2006,Reno,Nevada,MS,0,
+3/14/2006,Reno,Nevada,MS,0,2
+6/5/2006,Venice,California,HS,1,
+8/24/2006,Essex,Vermont,ES,2,
+8/24/2006,Essex Junction,Vermont,ES,2,3
+8/30/2006,Hillsborough,North Carolina,HS,3,
+8/30/2006,Hillsborough,North Carolina,HS,0,2
+9/2/2006,Shepherdstown,West Virginia,C,2,
+9/2/2006,Shepherdstown,West Virginia,C,3,0
+9/17/2006,Pittsburgh,Pennsylvania,C,0,
+9/17/2006,Pittsburgh,Pennsylvania,-,0,5
+9/27/2006,Bailey,Colorado,HS,1,
+9/27/2006,Bailey,Colorado,HS,2,0
+9/29/2006,Cazenovia,Wisconsin,HS,1,
+9/29/2006,Cazenovia,Wisconsin,HS,1,0
+10/2/2006,Nickel Mines,Pennsylvania,HS,5,
+10/2/2006,Nickel Mines,Pennsylvania,HS,6,3
+10/9/2006,Joplin,Missouri,MS,0,
+10/9/2006,Joplin,Missouri,MS,0,0
+10/17/2006,Katy,Texas,HS,1,
+10/29/2006,Fresno,California,ES,1,
+11/28/2006,Houston,Texas,HS,1,
+12/12/2006,Erdenheim,Pennsylvania,MS,1,
+1/3/2007,Tacoma,Washington,HS,1,
+1/3/2007,Tacoma,Washington,HS,1,0
+2/8/2007,Prineville,Oregon,HS,1,
+3/7/2007,Midland,Michigan,HS,0,
+3/7/2007,Greenville,Texas,HS,0,
+3/7/2007,Compton,California,HS,0,1
+3/24/2007,Greensboro,North Carolina,C,0,
+4/2/2007,Seattle,Washington,C,1,
+4/10/2007,Gresham,Oregon,HS,0,
+4/16/2007,Blacksburg,Virginia,C,32,
+4/16/2007,Blacksburg,Virginia,C,33,23
+9/21/2007,Dover,Delaware,C,1,
+9/28/2007,Oroville,California,HS,0,
+9/30/2007,Memphis,Tennessee,C,1,
+10/10/2007,Cleveland,Ohio,HS,0,
+10/10/2007,Cleveland,Ohio,HS,1,4
+11/6/2007,Miami Gardens,Florida,HS,0,1
+1/15/2008,Putnam City,Oklahoma,HS,0,
+1/16/2008,Cleveland,Ohio,HS,0,
+1/16/2008,Charlotte,North Carolina,HS,0,
+2/4/2008,Memphis,Tennessee,HS,0,
+2/4/2008,Memphis,Tennessee,HS,0,1
+2/7/2008,Portsmouth,Ohio,ES,0,
+2/8/2008,Baton Rouge,Louisiana,C,3,
+2/8/2008,Baton Rouge,Louisiana,C,3,0
+2/11/2008,Memphis,Tennessee,HS,0,
+2/11/2008,Memphis,Tennessee,HS,0,1
+2/12/2008,Oxnard,California,MS,1,
+2/12/2008,Oxnard,California,HS,1,0
+2/14/2008,DeKalb,Illinois,C,5,
+2/14/2008,DeKalb,Illinois,C,6,21
+2/23/2008,Jonesboro,Arkansas,C,0,
+2/27/2008,Little Rock,Arkansas,C,0,
+2/28/2008,Miami Gardens,Florida,HS,0,
+3/6/2008,Mobile,Alabama,HS,1,
+3/7/2008,Chicago,Illinois,HS,1,
+4/5/2008,Chicago,Illinois,HS,1,
+4/16/2008,Fresno,California,HS,1,
+4/24/2008,Omaha,Nebraska,MS,0,
+4/29/2008,Washington,District of Columbia,C,0,
+7/24/2008,Phoenix,Arizona,C,0,
+8/14/2008,Federal Way,Washington,MS,1,
+8/14/2008,Federal Way,Washington,MS,1,0
+8/21/2008,Knoxville,Tennessee,HS,1,
+8/21/2008,Knoxville,Tennessee,HS,1,0
+8/29/2008,Portland,Oregon,HS,0,
+9/2/2008,Willoughby,Ohio,HS,0,
+9/2/2008,Willoughby,Ohio,HS,0,0
+10/13/2008,San Antonio,Texas,C,1,
+10/16/2008,Detroit,Michigan,HS,1,
+10/16/2008,Detroit,Michigan,HS,1,3
+10/20/2008,Acton,California,HS,1,
+10/21/2008,Indianapolis,Indiana,HS,1,
+10/26/2008,Conway,Arkansas,C,2,
+10/26/2008,Conway,Arkansas,C,2,1
+10/31/2008,Stockton Springs,Maine,ES,0,
+11/12/2008,Fort Lauderdale,Florida,HS,1,
+11/13/2008,Fort Lauderdale,Florida,HS,1,0
+11/15/2008,St. George,Utah,HS,1,
+11/21/2008,Savannah,Georgia,C,0,
+1/8/2009,New Castle,Delaware,HS,0,
+1/9/2009,Chicago,Illinois,HS,0,
+1/9/2009,Chicago,Illinois,HS,0,5
+1/23/2009,Cahokia,Illinois,HS,1,
+2/7/2009,Houston,Texas,C,1,
+2/11/2009,El Monte,California,ES,0,
+2/17/2009,Detroit,Michigan,HS,0,
+3/6/2009,Fayetteville,North Carolina,HS,0,
+3/10/2009,Jacksonville,Florida,HS,2,
+4/10/2009,Dearborn,Michigan,C,1,
+4/24/2009,Houston,Texas,C,1,
+4/26/2009,Hampton,Virginia,C,0,
+4/26/2009,Hampton,Virginia,C,0,3
+5/1/2009,Sheboygan,Wisconsin,HS,0,
+5/5/2009,Canandaigua,New York,HS,0,
+5/18/2009,Larose,Louisiana,MS,0,
+5/18/2009,Cambridge,Massachusetts,C,1,
+5/18/2009,Cambridge,Massachusetts,C,1,0
+5/18/2009,Larose,Louisiana,MS,1,0
+6/9/2009,Lexington,Kentucky,MS,1,
+6/16/2009,San Francisco,California,HS,0,
+6/16/2009,San Francisco,California,HS,0,3
+6/24/2009,Parkersburg,Iowa,HS,1,
+9/2/2009,San Bruno,California,C,0,
+9/3/2009,Atlanta,Georgia,C,1,
+9/3/2009,San Bruno,California,C,0,1
+9/8/2009,Stamford,Connecticut,HS,0,
+9/14/2009,Grand Rapids,Michigan,HS,0,
+9/16/2009,Henrico,Virginia,HS,0,
+10/16/2009,Carolina Forest,South Carolina,HS,1,
+10/16/2009,Conway,South Carolina,HS,1,0
+10/30/2009,Long Beach,California,HS,1,
+11/16/2009,Dallas,Texas,ES,0,
+12/2/2009,Brockton,Massachusetts,HS,0,
+12/8/2009,Woodbridge,Virginia,C,0,
+12/11/2009,Shreveport,Louisiana,HS,0,
+1/7/2010,Phoenix,Arizona,HS,0,
+1/20/2010,Livingston,Alabama,HS,1,
+2/5/2010,Madison,Alabama,MS,1,
+2/5/2010,Madison,Alabama,MS,1,0
+2/10/2010,Knoxville,Tennessee,ES,0,
+2/12/2010,Huntsville,Alabama,C,3,
+2/12/2010,Huntsville,Alabama,C,3,3
+2/19/2010,DeKalb,Illinois,C,0,
+2/19/2010,DeKalb,Illinois,C,0,1
+2/23/2010,Littleton,Colorado,MS,0,
+2/23/2010,Littleton,Colorado,MS,0,2
+2/26/2010,Tacoma,Washington,ES,2,
+3/9/2010,Columbus,Ohio,C,1,
+3/9/2010,Columbus,Ohio,C,1,1
+4/29/2010,Portsmouth,Virginia,HS,0,
+5/18/2010,South Gate,California,HS,0,
+8/31/2010,Blountville,Tennessee,HS,1,
+9/7/2010,Detroit,Michigan,HS,0,
+9/8/2010,Detroit,Michigan,HS,0,2
+9/16/2010,Moss Bluff,Louisiana,MS,1,
+9/21/2010,Columbia,South Carolina,HS,0,
+9/28/2010,Austin,Texas,C,1,
+9/28/2010,Austin,Texas,C,1,0
+10/1/2010,Salinas,California,HS,1,
+10/1/2010,Salinas,California,HS,1,0
+10/3/2010,Elizabeth City,North Carolina,C,1,
+10/8/2010,Carlsbad,California,ES,0,
+10/8/2010,Carlsbad,California,ES,0,2
+10/25/2010,Selma,Alabama,ES,0,
+11/29/2010,Marinette,Wisconsin,HS,0,
+11/29/2010,Marinette,Wisconsin,HS,1,0
+12/6/2010,Aurora,Colorado,HS,0,1
+1/5/2011,Omaha,Nebraska,HS,1,
+1/5/2011,Omaha,Nebraska,HS,2,2
+1/18/2011,Los Angeles,California,HS,0,
+2/2/2011,Placerville,California,ES,1,
+2/14/2011,Murfreesboro,Tennessee,C,0,
+2/23/2011,Los Angeles,California,C,1,
+3/25/2011,Martinsville,Indiana,MS,0,
+3/25/2011,Martinsville,Indiana,MS,0,1
+3/31/2011,Houston,Texas,HS,1,
+3/31/2011,Houston,Texas,HS,1,5
+4/6/2011,Opelika,Alabama,C,1,
+4/13/2011,Apopka,Florida,HS,0,
+4/19/2011,Houston,Texas,ES,0,
+5/23/2011,Pearl City,Hawaii,MS,0,
+5/23/2011,Pearl City,Hawaii,MS,0,1
+8/26/2011,Harper Woods,Michigan,HS,0,
+10/24/2011,Fayetteville,North Carolina,HS,0,
+10/24/2011,Fayetteville,North Carolina,HS,0,1
+11/15/2011,Berkeley,California,C,0,
+12/8/2011,Blacksburg,Virginia,C,1,
+12/8/2011,Blacksburg,Virginia,C,2,0
+12/9/2011,Edinburg,Texas,MS,0,
+12/9/2011,Edinburg,Texas,MS,0,2
+1/4/2012,Brownsville,Texas,MS,0,
+1/10/2012,Houston,Texas,HS,0,
+1/10/2012,Houston,Texas,HS,0,1
+2/10/2012,Walpole,New Hampshire,ES,0,
+2/22/2012,Bremerton,Washington,ES,0,
+2/27/2012,Chardon,Ohio,HS,3,
+2/27/2012,Chardon,Ohio,HS,3,3
+3/6/2012,Jacksonville,Florida,HS,1,
+3/6/2012,Jacksonville,Florida,-,2,0
+3/24/2012,Starkville,Mississippi,C,1,
+4/2/2012,Oakland,California,C,7,
+4/2/2012,Oakland,California,C,7,3
+5/26/2012,Chapel Hill,North Carolina,ES,1,
+8/16/2012,Memphis,Tennessee,HS,0,
+8/16/2012,Memphis,Tennessee,HS,0,2
+8/27/2012,Perry Hall,Maryland,HS,0,
+8/27/2012,Perry Hall,Maryland,HS,0,1
+9/7/2012,Normal,Illinois,HS,0,
+9/7/2012,Normal,Illinois,HS,0,0
+9/12/2012,Baltimore,Maryland,C,0,
+10/6/2012,Mobile,Alabama,C,1,0
+10/19/2012,Chicago,Illinois,HS,1,0
+10/31/2012,Los Angeles,California,C,0,
+10/31/2012,Los Angeles,California,C,0,4
+11/30/2012,Baltimore,Maryland,C,0,
+12/14/2012,Newtown,Connecticut,ES,27,
+12/14/2012,Newtown,Connecticut,ES,28,2
+1/7/2013,Fort Myers,Florida,ES,1,
+1/7/2013,Fort Myers,Florida,-,1,0
+1/10/2013,Taft,California,HS,0,
+1/10/2013,Taft,California,HS,0,2
+1/12/2013,Detroit,Michigan,HS,0,1
+1/15/2013,Hazard,Kentucky,C,3,
+1/15/2013,St. Louis,Missouri,C,0,
+1/15/2013,St. Louis,Missouri,C,0,2
+1/15/2013,Hazard,Kentucky,C,3,0
+1/16/2013,Chicago,Illinois,C,0,
+1/16/2013,Chicago,Illinois,C,1,0
+1/22/2013,Houston,Texas,C,0,
+1/22/2013,Houston,Texas,C,0,3
+1/31/2013,Phoenix,Arizona,HS,0,
+1/31/2013,Atlanta,Georgia,MS,0,
+1/31/2013,Phoenix,Arizona,HS,0,0
+1/31/2013,Atlanta,Georgia,MS,0,2
+3/18/2013,Orlando,Florida,C,1,
+3/18/2013,Orlando,Florida,C,1,0
+4/12/2013,Christiansburg,Virginia,C,0,
+4/12/2013,Dublin,Virginia,C,0,2
+4/16/2013,Grambling,Louisiana,C,0,
+4/16/2013,Grambling,Louisiana,C,0,3
+4/18/2013,Cambridge,Massachusetts,C,2,
+4/18/2013,Cambridge,Massachusetts,C,2,1
+5/14/2013,Birmingham,Alabama,MS,0,
+5/14/2013,Birmingham,Alabama,MS,0,0
+6/7/2013,Santa Monica,California,C,6,
+6/7/2013,Santa Monica,California,C,6,4
+6/20/2013,West Palm Beach,Florida,HS,2,
+8/20/2013,Decatur,Georgia,ES,0,
+8/20/2013,Decatur,Georgia,-,0,0
+8/23/2013,Sardis,Mississippi,HS,1,
+8/23/2013,Sardis,Mississippi,HS,1,2
+8/30/2013,Winston-Salem,North Carolina,HS,0,
+8/30/2013,Winston-Salem,North Carolina,HS,0,1
+10/4/2013,Pine Hills,Florida,HS,0,
+10/4/2013,Pine Hills,Florida,HS,0,2
+10/21/2013,Sparks,Nevada,MS,2,
+10/21/2013,Sparks,Nevada,MS,2,2
+11/2/2013,Greensboro,North Carolina,C,0,
+11/2/2013,Greensboro,North Carolina,C,0,1
+11/3/2013,Lithonia,Georgia,HS,0,
+11/3/2013,Lithonia,Georgia,HS,0,2
+11/13/2013,Pittsburgh,Pennsylvania,HS,0,
+11/13/2013,Pittsburgh,Pennsylvania,HS,0,3
+12/4/2013,Winter Garden,Florida,HS,0,
+12/4/2013,Winter Garden,Florida,HS,0,1
+12/13/2013,Centennial,Colorado,HS,2,
+12/13/2013,Centennial,Colorado,HS,2,0
+12/19/2013,Fresno,California,HS,0,
+12/19/2013,Fresno,California,HS,0,1
+1/9/2014,Jackson,Tennessee,HS,0,1
+1/13/2014,New Haven,Connecticut,HS,0,1
+1/14/2014,Roswell,New Mexico,MS,0,3
+1/17/2014,Philadelphia,Pennsylvania,HS,0,2
+1/20/2014,Chester,Pennsylvania,C,0,1
+1/21/2014,West Lafayette,Indiana,C,1,0
+1/24/2014,Orangeburg,South Carolina,C,1,0
+1/25/2014,Los Angeles,California,C,1,0
+1/27/2014,Carbondale,Illinois,HS,0,1
+1/28/2014,Nashville,Tennessee,C,0,1
+1/30/2014,Palm Bay,Florida,C,0,1
+1/31/2014,Des Moines,Iowa,HS,0,1
+2/10/2014,Salisbury,North Carolina,HS,0,1
+2/10/2014,Lyndhurst,Ohio,HS,0,0
+2/12/2014,Los Angeles,California,C,0,1
+2/22/2014,Augusta,Georgia,C,0,1
+3/12/2014,Miami,Florida,ES,1,0
+3/25/2014,College Park,Georgia,HS,0,0
+4/9/2014,Greenville,North Carolina,HS,0,0
+4/11/2014,Detroit,Michigan,HS,1,0
+5/4/2014,Augusta,Georgia,C,0,1
+5/5/2014,Augusta,Georgia,C,0,1
+5/8/2014,Lawrenceville,Georgia,C,0,1
+5/14/2014,Richmond,California,HS,0,1
+6/5/2014,Seattle,Washington,C,1,2
+6/10/2014,Troutdale,Oregon,HS,2,1
+9/9/2014,Miami,Florida,-,0,1
+9/27/2014,Terre Haute,Indiana,C,0,1
+9/30/2014,Albemarle,North Carolina,HS,0,1
+9/30/2014,Louisville,Kentucky,HS,0,1
+10/3/2014,Fairburn,Georgia,HS,1,0
+10/24/2014,Marysville,Washington,HS,5,1
+11/20/2014,Tallahassee,Florida,C,1,3
+11/20/2014,Miami,Florida,HS,1,1
+12/5/2014,Claremore,Oklahoma,C,1,0
+12/12/2014,Portland,Oregon,HS,0,4
+1/15/2015,Milwaukee,Wisconsin,HS,0,3
+1/16/2015,Ocala,Florida,-,0,2
+2/4/2015,Frederick,Maryland,HS,0,2
+2/14/2015,Merced,California,MS,1,0
+2/23/2015,Daytona Beach,Florida,C,0,3
+3/30/2015,University City,Missouri,ES,0,1
+4/13/2015,Goldsboro,North Carolina,C,1,0
+4/16/2015,Paradis,Louisiana,MS,0,1
+4/27/2015,Lacey,Washington,HS,0,0
+5/12/2015,Jacksonville,Florida,HS,0,2
+5/24/2015,Flint,Michigan,HS,0,7
+8/27/2015,Savannah,Georgia,C,1,0
+9/3/2015,Sacramento,California,C,1,2
+9/14/2015,Cleveland,Mississippi,C,2,0
+9/30/2015,Harrisburg,South Dakota,HS,0,1
+10/1/2015,Roseburg,Oregon,C,10,9
+10/9/2015,Flagstaff,Arizona,C,1,3
+10/9/2015,Houston,Texas,C,1,1
+10/22/2015,Nashville,Tennessee,C,1,3
+11/1/2015,Winston-Salem,North Carolina,C,1,1
+11/20/2015,North Las Vegas,Nevada,HS,1,0
+1/22/2016,Indianapolis,Indiana,HS,0,1
+1/29/2016,Philadelphia,Pennsylvania,HS,0,0
+2/9/2016,Muskegon Heights,Michigan,HS,0,4
+2/12/2016,Glendale,Arizona,HS,2,0
+2/29/2016,Middletown,Ohio,HS,0,4
+4/23/2016,Antigo,Wisconsin,HS,1,2
+6/1/2016,Los Angeles,California,C,2,0
+6/8/2016,Dorchester,Massachusetts,HS,1,3
+9/6/2016,Cedar Rapids,IA,HS,1,0
+9/9/2016,Alpine,Texas,HS,1,2
+9/28/2016,Townville,South Carolina,ES,2,2
+10/11/2016,Mobile,Alabama,HS,0,1
+10/13/2016,Columbus,Ohio,HS,0,2
+10/18/2016,San Francisco,California,HS,0,4
+10/25/2016,Sandy,Utah,MS,0,1
+12/1/2016,Bountiful,Utah,MS,0,0
+1/20/2017,West Liberty,Ohio,HS,0,1
+1/20/2017,Seattle,Washington,C,0,1
+3/21/2017,King City,California,HS,0,1
+4/10/2017,San Bernardino,California,ES,3,1
+5/4/2017,Irving,Texas,C,2,0
+9/13/2017,Rockford,Washington,HS,1,3
+9/20/2017,Mattoon,Illinois,HS,0,1
+11/14/2017,Rancho Tehama Reserve,California,ES,6,18
+12/7/2017,Aztec,New Mexico,HS,3,0
+1/9/2018,Forest City,Iowa,-,0,0
+1/20/2018,Winston-Salem,North Carolina,C,1,0
+1/22/2018,Italy,Texas,HS,0,1
+1/22/2018,New Orleans,Louisiana,HS,0,1
+1/23/2018,Marshall County,Kentucky,HS,2,18
+2/1/2018,Los Angeles,California,MS,0,5
+2/14/2018,Parkland,Florida,HS,17,14
+3/2/2018,Mount Pleasant,Michigan,C,2,0
+3/7/2018,Birmingham,Alabama,HS,1,2
+3/14/2018,Birmingham,Alabama,C,2,1
+3/20/2018,Great Mills,Maryland,HS,2,1
+4/20/2018,Ocala,Florida,HS,0,1
+5/11/2018,Palmdale,California,HS,0,1
+5/16/2018,Dixon,Texas,HS,0,1
+5/18/2018,Santa Fe,Texas,HS,10,10
+5/18/2018,Jonesboro,Georgia,HS,1,3
+5/25/2018,Nobelsville,Indiana,MS,0,2
+8/17/2018,Wellington,Florida,HS,0,2
+8/30/2018,San Francisco,California,HS,0,1
+9/5/2018,Providence,Rhode Island,HS,1,1
+9/10/2018,Memphis,Tennessee,HS,0,1
+9/11/2018,Las Vegas,Nevada,HS,1,0
+10/29/2018,Matthews,North Carolina,HS,1,1
+12/13/2018,Richmond,Indiana,MS,1,0
+1/25/2019,Mobile,Alabama,HS,0,2
+2/8/2019,Baltimore,Maryland,HS,0,1
+2/12/2019,Kansas City,Missouri,HS,1,0
+2/14/2019,Rio Rancho,New Mexico,HS,0,0
+3/22/2019,Blountville,Alabama,ES,0,1
+4/1/2019,Prescott,Arizona,HS,0,1
+4/25/2019,Dekalb,Georgia,ES,0,10
+4/30/2019,Charlotte,North Carolina,C,2,4
+5/4/2019,Eugene,Oregon,C,1,0
+5/6/2019,Riverview,Florida,ES,0,0
+5/7/2019,Highlands Ranch,Colorado,HS,1,7
+5/7/2019,Savannah,Georgia,C,0,1
+8/8/2019,Montgomery,Alabama,ES,0,0
+8/30/2019,Mobile,Alabama,HS,0,10
+10/22/2019,Santa Rosa,California,HS,0,1
+11/14/2019,Santa Clarita,California,HS,2,4
+11/15/2019,Pleasantville,New Jersey,HS,1,2
+11/23/2019,Union City,California,ES,2,0
+12/2/2019,Waukesha,Wisconsin,HS,0,1
+12/3/2019,Oshkosh,Wisconsin,HS,0,2
+1/8/2020,Belle Glade,Florida,HS,0,1
+1/11/2020,Dallas,Texas,HS,1,1
+1/14/2020,Bellaire,Texas,HS,1,0
+1/14/2020,Fort Worth,Texas,HS,0,2
+1/23/2020,Oxnard,California,ES,0,1
+2/3/2020,Commerce,Texas,C,2,1
+9/16/2020,Sonora,California,HS,1,0
+9/16/2020,Macomb,Illinois,C,0,1
+2/26/2021,New Orleans,Louisiana,HS,1,0
+3/1/2021,Pine Bluff,Arkansas,MS,1,0
+4/12/2021,Knoxville,Tennessee,HS,1,1
+4/26/2021,Plymouth,Minnesota,MS,0,0
+5/6/2021,Rigby,Idaho,MS,0,3
+8/13/2021,Albuquerque,New Mexico,MS,1,0
+8/18/2021,Orangeburg,South Carolina,HS,0,3
+8/27/2021,Woodridge,Virginia,HS,0,2
+8/27/2021,Sharon Hill,Pennsylvania,HS,1,4
+8/27/2021,Wilmington,North Carolina,HS,0,1
+9/1/2021,Winston-Salem,North Carolina,HS,1,0
+9/4/2021,Towson,Maryland,C,0,3
+9/20/2021,Newport News,Virginia,HS,0,4
+9/21/2021,Wichita,Kansas,HS,0,3
+9/24/2021,Fairfield,Alabama,HS,0,1
+9/30/2021,Memphis,Tennessee,ES,0,1
+9/30/2021,Newton,Mississippi,ES,0,1
+10/1/2021,Houston,Texas,HS,0,1
+10/6/2021,Arlington,Texas,HS,0,4
+10/12/2021,Chicago,Illinois,HS,0,2
+10/13/2021,Grambling,Louisiana,C,1,1
+10/17/2021,Grambling,Louisiana,C,1,7
+11/1/2021,Madison,Mississippi,HS,0,0
+11/19/2021,Aurora,Colorado,HS,0,3
+11/26/2021,Campbell,California,HS,0,2
+11/29/2021,Phoenix,Arizona,HS,0,1
+11/30/2021,Oxford Township,Michigan,HS,4,7
+11/30/2021,Humbolt,Tennessee,HS,1,2
+12/6/2021,Wilmington,California,ES,1,2
+12/8/2021,Kansas City,Missouri,MS,0,2
+1/4/2022,Rockford,Illinois,HS,0,2
+1/9/2022,Murfreesboro,North Carolina,C,0,0
+1/11/2022,Albuquerque,New Mexico,HS,0,0
+1/19/2022,Sanford,Florida,HS,0,1
+1/19/2022,Pittsburgh,Pennsylvania,HS,1,0
+1/21/2022,Derwood,Maryland,HS,0,1
+1/29/2022,Beloit,Wisconsin,HS,1,0
+2/1/2022,Richfield,Minnesota,HS,1,1
+2/1/2022,Bridgewater,Virginia,C,2,1
+2/8/2022,Catonsville,Maryland,HS,0,1
+3/4/2022,Olathe,Kansas,HS,0,3
+3/7/2022,Des Moines,Iowa,HS,1,2
+3/31/2022,Greenville,South Carolina,MS,1,0
+4/5/2022,Erie,Pennsylvania,HS,0,1
+4/22/2022,Washington,District of Columbia,HS,0,4
+5/9/2022,Suwanee,Georgia,,0,1
+5/17/2022,Chicago,Illinois,ES,0,1
+5/24/2022,Uvalde,Texas,ES,22,15
+5/31/2022,New Orleans,Louisiana,C,1,2
+6/1/2022,Los Angeles,California,ES,0,1
+8/19/2022,Clarksville,Tennessee,HS,0,0
+8/19/2022,Groveport,Ohio,HS,0,0
+8/29/2022,Oakland,California,HS,0,1
+9/3/2022,Dover,Delaware,C,0,4
+9/24/2022,Richfield,Minnesota,HS,0,2
+9/27/2022,Philadelphia,Pennsylvania,HS,1,4
+9/28/2022,Oakland,California,HS,0,4
+9/30/2022,Tulsa,Oklahoma,HS,1,3
+9/30/2022,Newburgh,New York,HS,0,3
+10/5/2022,Tucson,Arizona,C,1,0
+10/7/2022,Toledo,Ohio,HS,0,3
+10/8/2022,Baltimore,Maryland,C,0,1
+10/24/2022,St. Louis,Missouri,HS,3,7
+11/4/2022,West Hartford,Connecticut,C,0,1
+11/8/2022,Seattle,Washington,HS,1,0
+11/12/2022,Orlando,Florida,HS,1,2
+11/13/2022,Charlottesville,Virginia,C,3,2
+11/17/2022,Clinton,Indiana,C,0,1
+11/19/2022,Albuquerque,New Mexico,C,1,1
+11/27/2022,Tallahassee,Florida,C,1,4
+12/8/2022,Fuquay-Varina,North Carolina,MS,0,0
+1/4/2023,Detroit,Michigan,ES,1,0
+1/5/2023,Rochester,New York,HS,0,0
+1/6/2023,Newport News,Virginia,ES,0,1
+1/7/2023,South Tabor,Oregon,HS,0,1
+1/10/2023,Stanford,Kentucky,ES,0,1
+1/23/2023,Des Moines,Iowa,HS,2,1
+2/6/2023,Middletown,Delaware,HS,0,0
+2/13/2023,East Lansing,Michigan,C,4,5
+2/13/2023,Stapleton,New York,ES,0,0
+2/14/2023,Homewood West,Pennsylvania,HS,0,4
+2/24/2023,Daytona Beach,Florida,C,0,0
+3/3/2023,Orangeburg,South Carolina,C,0,1
+3/11/2023,Waterville,Maine,C,0,0
+3/20/2023,Arlington,Texas,HS,1,1
+3/22/2023,Dallas,Texas,HS,0,1
+3/22/2023,City Park,Colorado,HS,1,2
+3/25/2023,Orangeburg,South Carolina,C,0,0
+3/27/2023,Nashville,Tennessee,ES,7,1
+3/30/2023,Winston-Salem,North Carolina,C,0,1
+4/10/2023,Louisville,Kentucky,C,1,1
+4/15/2023,Chester County,Pennsylvania,C,0,2
+4/24/2023,Midwest City,Oklahoma,C,1,0
+4/27/2023,Richmond,Virginia,HS,0,2
+4/28/2023,Knoxville,Tennessee,HS,0,1
+4/29/2023,Tallahassee,Florida,C,0,1
+5/1/2023,Flint,Michigan,HS,0,1
+5/12/2023,Chadron,Nebraska,C,0,0
+5/12/2023,Lenoir City,Tennessee,HS,1,0
+5/24/2023,Pittsburgh,Pennsylvania,HS,1,0
+6/2/2023,Worcester,Massachusetts,HS,0,1
+6/6/2023,Richmond,Virginia,C,2,5
+7/5/2023,Washington,District Of Columbia,C,1,0
+7/13/2023,Washington,District Of Columbia,C,1,0
+8/16/2023,Augusta,Georgia,HS,0,1
+8/18/2023,Columbus,Georgia,C,2,0
+8/22/2023,Seguin,Texas,ES,0,0
+8/22/2023,Huntsville,Alabama,C,0,2
+8/25/2023,Choctaw,Oklahoma,HS,1,4
+8/25/2023,Greensboro,North Carolina,C,0,1
+8/28/2023,Chapel Hill,North Carolina,C,1,0
+9/12/2023,Greensburg,Louisiana,C,1,2
+9/15/2023,Country Club Hills,Illinois,HS,1,0
+09/24/2023,Tuskegee,Alabama,C,0,2
+10/03/2023,Baltimore,Maryland,C,0,5
+10/12/2023,Framingham,Massachusetts,C,0,0
+10/15/2023,Kirkwood,Missouri,MS,0,0
+10/15/2023,Jackson,Mississippi,C,1,0
+10/17/2023,Stanford,California,C,0,1
+10/23/2023,Germantown,Wisconsin,MS,1,0
+10/28/2023,Worcester,Massachusetts,C,1,1
+11/03/2023,Las Vegas,Nevada,,0,2
+11/13/2023,Victoria,Texas,C,0,1
+11/13/2023,Prairie View,Texas,C,1,0
+11/27/2023,Chicago,Illinois,C,0,0
+11/28/2023,Newport News,Virginia,C,0,0
+12/06/2023,Las Vegas,Nevada,C,4,3
+01/04/2024,Perry,Iowa,HS,3,6
+01/17/2024,Gary,Indiana,C,0,0
+01/29/2024,Austin,Texas,HS,0,1
+01/30/2024,Mobile,Alabama,HS,0,2
+02/06/2024,Orangeburg,South Carolina,C,0,1
+02/09/2024,Saco,Maine,,0,0
+02/09/2024,Berkeley,California,C,0,0
+02/14/2024,Atlanta,Georgia,HS,0,4
+02/16/2024,Colorado Springs,Colorado,C,2,0
+02/19/2024,Mesquite,Texas,,0,1
+02/25/2024,Evanston,Illinois,C,0,0
+02/26/2024,Odessa,Texas,HS,0,1
+03/11/2024,Springfield,Massachusetts,HS,0,0
+04/02/2024,Cambridge,Massachusetts,,0,0
+04/12/2024,Dallas,Texas,HS,0,1
+04/21/2024,Dover,Delaware,C,1,0
+04/22/2024,West Richland,Washington,ES,1,0
+04/15/2024,Greensboro,North Carolina,C,0,0
+04/23/2024,Raleigh,North Carolina,C,0,0
+04/24/2024,Arlington,Texas,HS,1,0
+04/30/2024,New York City,New York,C,0,0
+05/01/2024,Mount Horeb,Wisconsin,MS,1,0
+05/01/2024,Syracuse,New York,C,0,0
+05/03/2024,Washington,D.C.,HS,0,1
+05/18/2024,Kennesaw,Georgia,C,1,0
+05/19/2024,Cape Girardeau,Missouri,C,0,2
+06/06/2024,Seattle,Washington,HS,1,0
+08/10/2024,Nashville,Tennessee,C,0,2
+08/14/2024,Ettrick,Virginia,C,0,4
+08/18/2024,Itta Bena,Mississippi,C,0,2
+08/26/2024,Houston,Texas,C,2,0
+08/30/2024,Huntsville,Alabama,C,0,1
+08/21/2024,San Francisco,California,,0,1
+09/03/2024,Huntsville,Alabama,C,0,1
+09/04/2024,Winder,Georgia,HS,4,9
+09/04/2024,New York City,New York,,0,1
+09/06/2024,Joppatowne,Maryland,HS,1,0
+09/10/2024,Omaha,Nebraska,HS,0,1
+09/19/2024,Atlanta,Georgia,C,0,0
+09/22/2024,Tucson,Arizona,C,1,0
+10/05/2024,Colorado Springs,Colorado,,1,0
+10/10/2024,Coatesville,Pennsylvania,HS,0,0
+10/14/2024,Santa Monica,California,C,2,0
+10/17/2024,Louisville,Kentucky,HS,0,1
+10/19/2024,Albany,Georgia,C,1,5
+10/29/2024,Bridgeport,Connecticut,C,0,1
+10/31/2024,Painesville Township,Ohio,ES,0,0
+11/06/2024,Wilmington,Delaware,MS,0,0
+11/08/2024,Philadelphia,Pennsylvania,C,0,1
+11/10/2024,Country Club Hills,Illinois,MS,1,0
+11/10/2024,Tuskegee,Alabama,C,1,16
+12/04/2024,Palermo,California,,1,2
+12/14/2024,Valdosta,Georgia,C,0,0
+12/16/2024,Madison,Wisconsin,,3,6
+12/17/2024,Pittsburgh,Pennsylvania,,0,0
+01/13/2025,Santa Rosa,California,MS,0,1
+01/14/2025,Newburgh,New York,,0,0
+01/22/2025,Nashville,Tennessee,HS,2,2
+01/27/2025,Kent,Washington,HS,0,0
+01/30/2025,Madisonville,Tennessee,,0,0
+02/01/2025,Pasadena,Texas,HS,0,1
+02/06/2025,Huntsville,Alabama,ES,0,0
+02/12/2025,Winston-Salem,North Carolina,C,0,1
+02/19/2025,Tallahassee,Florida,C,0,0
+02/23/2025,Lancaster,Pennsylvania,C,0,0
+02/25/2025,Montgomery County,Maryland,HS,0,0
+02/26/2025,Norfolk,Virginia,C,2,0
+03/02/2025,Baton Rouge,Louisiana,C,0,1
+03/04/2025,Halethorpe,Maryland,HS,1,0
+03/12/2025,Grambling,Louisiana,C,0,0
+03/27/2025,Frisco,Texas,ES,0,0
+04/07/2025,Spotsylvania County,Virginia,ES,0,0
+04/10/2025,Houston,Texas,HS,0,2
+04/08/2025,Lakeland South,Washington,ES,0,1
+04/10/2025,White Plains,Maryland,ES,0,0
+04/10/2025,Omaha,Nebraska,C,0,1
+04/10/2025,Newark,Delaware,HS,0,1
+04/11/2025,Stockton,California,HS,0,6
+04/15/2025,Dallas,Texas,HS,0,4
+04/16/2025,San Antonio,Texas,,1,0
+04/17/2025,Tallahassee,Florida,C,2,7
+04/19/2025,Norfolk,Virginia,C,0,2
+04/19/2025,Conway,Arkansas,C,0,1
+04/22/2025,Denver,Colorado,MS,0,0
+04/22/2025,New York City,New York,HS,1,1
+04/27/2025,Elizabeth City,North Carolina,C,1,6
+04/27/2025,Normal,Illinois,C,0,1
+04/30/2025,Los Angeles,California,,0,0
+05/01/2025,Ettrick,Virginia,C,0,1
+05/02/2025,Inglewood,California,C,1,1
+05/15/2025,Philadelphia,Pennsylvania,ES,1,1
+05/19/2025,Platteville,Wisconsin,C,2,0
+06/24/2025,Lubbock,Texas,C,1,2
+06/24/2025,Culver City,California,HS,0,0
